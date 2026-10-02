@@ -9,12 +9,18 @@
     "id": 2,
     "nomeAluno": "Ana",
     "livro": "Clean Code",
-    "devolvidoEm": null
+    "devolvidoEm": "2026-10-02T18:38:57.399Z"
   },
   {
     "id": 3,
     "nomeAluno": "Ana",
     "livro": "Clean Code",
+    "devolvidoEm": null
+  },
+  {
+    "id": 4,
+    "nomeAluno": "vitor",
+    "livro": "as vantagens de ser invisível",
     "devolvidoEm": null
   }
 ]
