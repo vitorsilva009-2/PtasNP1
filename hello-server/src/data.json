@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nomeAluno": "Ana",
+    "livro": "Clean Code",
+    "devolvidoEm": "2026-10-02T18:25:29.498Z"
+  },
+  {
+    "id": 2,
+    "nomeAluno": "Ana",
+    "livro": "Clean Code",
+    "devolvidoEm": null
+  },
+  {
+    "id": 3,
+    "nomeAluno": "Ana",
+    "livro": "Clean Code",
+    "devolvidoEm": null
+  }
+]
